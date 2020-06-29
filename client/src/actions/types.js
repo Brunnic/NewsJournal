@@ -1,0 +1,13 @@
+export const POST_ERROR = "POST_ERROR";
+export const GET_POST = "GET_POST";
+export const GET_POSTS = "GET_POSTS";
+export const ADD_POST = "ADD_POST";
+export const DELETE_POST = "DELETE_POST";
+export const UPDATE_POST = "UPDATE_POST";
+export const GET_USER = "GET_USER";
+export const USER_LOGOUT = "USER_LOGOUT";
+export const USER_LOGIN = "USER_LOGIN";
+export const USER_REGISTER = "USER_REGISTER";
+export const USER_ERROR = "USER_ERROR";
+export const SET_ALERT = "SET_ALERT";
+export const DELETE_ALERT = "DELETE_ALERT";

@@ -1,0 +1,4 @@
+{
+  "dbAdress": "mongodb://localhost:27017/Newsjournal",
+  "secret": "THIS IS A SECRET CODE DO NOT SHARE WITH ANYONE"
+}

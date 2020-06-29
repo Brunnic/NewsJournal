@@ -1,0 +1,64 @@
+.main-posts-holder {
+  padding: 20px;
+  border-right: 1px #9ca2ad solid;
+  border-left: 1px #9ca2ad solid;
+}
+
+.article-img {
+  width: 400px;
+  margin: 0 auto;
+}
+
+.img-banner {
+  height: 200px;
+  width: 600px;
+  margin: 0 auto;
+}
+
+.article-body {
+  padding: 20px;
+  font-size: 22px;
+}
+
+.article-link {
+  border: 2px #9ca2ad solid;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.article-author {
+  color: #78859c;
+}
+
+.article-author-name {
+  color: #4e6791;
+  text-transform: uppercase;
+}
+
+.user-img {
+  width: 200px;
+  height: 200px;
+}
+
+.user-admin {
+  color: red;
+}
+
+.user-posts-array {
+  width: 300px;
+  padding: 10px;
+  margin: 0 auto;
+}
+
+.user-post-link {
+  font-size: large;
+}
+
+.user-post-link:hover {
+  color: #3bdb4b;
+  text-decoration: none;
+}
+
+.navbar .navbar-dark {
+  color: #165faf!important;
+}
